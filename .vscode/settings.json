@@ -5,6 +5,5 @@
     "plaintext": true,
     "markdown": true
   },
-  "github.copilot.chat.localeOverride": "en",
-  "github.copilot.selectedCompletionModel": "gpt-4o"
+  "github.copilot.chat.localeOverride": "en"
 }
